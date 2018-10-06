@@ -9,7 +9,7 @@
 # General
 --------------------------------------------------------------*/
 body {
-  background-color:#2a2c40;
+  background-color:#2a2c42;
   color: #333;
 }
 
@@ -1092,7 +1092,7 @@ body.mobile-nav-active #mobile-nav-toggle i {
 }
 
 #blog .block-blog .content-blog {
-  background: #2a2c39;
+  background: #2a2c40;
   box-shadow: 0 0 0 0 rgba(0, 0, 0, 0.2), 0 0 4px 0 rgba(0, 0, 0, 0.19);
   display: inline-block;
   min-height: 125px;
@@ -1110,7 +1110,7 @@ body.mobile-nav-active #mobile-nav-toggle i {
 }
 
 #blog .block-blog .content-blog h4 a {
-  color: #555;
+  color: #fff;
   text-decoration: none;
   transition: 0.3s;
 }
@@ -1122,10 +1122,11 @@ body.mobile-nav-active #mobile-nav-toggle i {
 #blog .block-blog .content-blog > span {
   float: left;
   font-size: 12px;
+    color: #fff;
 }
 
 #blog .block-blog .content-blog a.readmore {
-  color: #505050;
+  color: #fff;
   font-size: 12px;
   font-weight: 600;
   text-decoration: none;
